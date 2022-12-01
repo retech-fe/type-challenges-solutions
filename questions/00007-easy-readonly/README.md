@@ -20,7 +20,7 @@ Readonly 只读类型、readonly 修饰符
 
 ## 相关挑战
 
-[](https://github.com/type-challenges/type-challenges/tree/main/questions/00007-easy-readonly#related-challenges)
+[相关挑战](https://github.com/type-challenges/type-challenges/tree/main/questions/00007-easy-readonly#related-challenges)
 
 ## 参考
 
