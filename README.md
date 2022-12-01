@@ -3,6 +3,7 @@
 ## 源仓库
 
 > TypeScript 类型体操：https://github.com/type-challenges/type-challenges
+
 > 如果 GitHub 访问过慢，可以访问 Gitee 仓库：https://gitee.com/mirrors_trending/type-challenges/tree/main
 
 ## 开始挑战
