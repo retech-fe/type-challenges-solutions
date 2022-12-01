@@ -17,4 +17,4 @@
 
 ### 简单
 
-Pick ⸱ [挑战](/blob/main/questions/00004-easy-pick/README.zh-CN.md) ⸱ [解答](/blob/main/questions/00004-easy-pick/README.md)
+Pick ⸱ [挑战](/questions/00004-easy-pick/README.zh-CN.md) ⸱ [解答](/questions/00004-easy-pick/README.md)
