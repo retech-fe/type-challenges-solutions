@@ -1,8 +1,8 @@
 # PICK
 
-## 题目
+## 挑战
 
-[题目](https://github.com/type-challenges/type-challenges/blob/main/questions/00004-easy-pick/README.zh-CN.md)
+[挑战](https://github.com/type-challenges/type-challenges/blob/main/questions/00004-easy-pick/README.zh-CN.md)
 
 ## 解析
 
@@ -29,6 +29,10 @@ type MyPick<T, K extends keyof T> = { [P in K]: T[P] };
 ## 关键词
 
 泛型、泛型约束、可索引类型、索引类型查询、联合类型、字面量联合类型、keyof 操作符、in 操作符、映射类型
+
+## 相关挑战
+
+[相关挑战](https://github.com/type-challenges/type-challenges/blob/main/questions/00004-easy-pick/README.md#related-challenges)
 
 ## 参考资料
 

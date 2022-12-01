@@ -19,3 +19,5 @@
 ### 简单
 
 Pick ⸱ [挑战](https://github.com/type-challenges/type-challenges/blob/main/questions/00004-easy-pick/README.md) ⸱ [解答](/questions/00004-easy-pick/README.md)
+
+Pick ⸱ [挑战](https://github.com/type-challenges/type-challenges/blob/main/questions/00004-easy-pick/README.md) ⸱ [解答](/questions/00004-easy-pick/README.md)
